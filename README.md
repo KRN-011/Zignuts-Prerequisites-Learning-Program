@@ -1,2 +1,2 @@
 # Zignuts-Prerequisites-Learning-Program
-Author - Karan Patel
+Author - Karan
