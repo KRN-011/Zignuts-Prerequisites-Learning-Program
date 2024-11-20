@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Rubik";
+    src: url("/fonts/Rubik-VariableFont_wght.ttf");
+}
+
+.Rubik {
+    font-family: "Rubik";
+}
+
+html{
+    overflow-x: hidden;
+}
+
+body{
+    overflow-x: hidden;
+}
